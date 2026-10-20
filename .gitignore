@@ -220,9 +220,3 @@ __marimo__/
 .streamlit/secrets.toml
 
 data/
-
-# Large datasets
-data/airbnb/reviews.csv
-data/airbnb/calendar.csv
-data/kddcup99/cleaned.pkl
-data/kddcup99/kddcup.data.corrected
